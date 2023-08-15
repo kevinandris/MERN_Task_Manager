@@ -5,6 +5,9 @@
        providing icons as well to guide them easily whether they want to remove, update or create a task.
     3) Implemented a vertical red line as well which only exists when a list is completed.
 
+#   Project image:
+    ![image](https://github.com/kevinandris/MERN_Task_Manager/assets/102328858/2952c89c-9b68-4ebd-a2c9-505d15eccb56)
+
 #   To run the project:
     Client side: npm run:frontend
     Server side: npm run:backend
