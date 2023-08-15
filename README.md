@@ -7,8 +7,14 @@
     Client side: npm run:frontend
     Server side: npm run:backend
 
+    Client and Server side: npm run:both
+
 #   Frontend dependencies installed:
-    1)
+    1) cors,
+    2) dotenv,
+    3) express,
+    4) mongoose,
+    5) concurrently.
 
 #   Backend dependencies installed:
     1)
