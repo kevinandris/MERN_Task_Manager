@@ -6,7 +6,7 @@
     3) Implemented a vertical red line as well which only exists when a list is completed.
 
 #   Project image:
-    ![image](https://github.com/kevinandris/MERN_Task_Manager/assets/102328858/2952c89c-9b68-4ebd-a2c9-505d15eccb56)
+    ![Task-manager](https://github.com/kevinandris/MERN_Task_Manager/assets/102328858/4ee3e119-d4f0-4b65-9767-a04f902b4c5c)
 
 #   To run the project:
     Client side: npm run:frontend
