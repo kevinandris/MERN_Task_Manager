@@ -5,7 +5,7 @@
        providing icons as well to guide them easily whether they want to remove, update or create a task.
     3) Implemented a vertical red line as well which only exists when a list is completed.
 
-#   Project image:
+#   Project images:
     1) Unit Interface
 ![Task-manager](https://github.com/kevinandris/MERN_Task_Manager/assets/102328858/52d0f10a-526d-428b-b248-f309d5cbdb03)
 
