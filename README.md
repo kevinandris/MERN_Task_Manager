@@ -4,6 +4,7 @@
        the users want to do, they are also able to update the their tasks if they are completed or not. 
        providing icons as well to guide them easily whether they want to remove, update or create a task.
     3) Implemented a vertical red line as well which only exists when a list is completed.
+    4) the number of total tasks created and completed tasks are also tracked.
 
 #   Project images:
     1) Unit Interface
