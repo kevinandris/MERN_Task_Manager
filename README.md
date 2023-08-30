@@ -32,4 +32,8 @@
     3) express
     4) mongoose
     5) concurrently
+
+#   Things that need to be improved for me:
+    1) Always double check the spelling of the words to avoid mismatched words and errors.
+    2) Always work on the backend (server) side before implementing the frontend (client).
   
